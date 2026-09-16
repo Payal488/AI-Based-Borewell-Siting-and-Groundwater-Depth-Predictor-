@@ -22,8 +22,6 @@ The system is designed to:
 - Compare XGBoost and Random Forest machine learning models.
 - Provide predictions through an interactive dashboard.
 
-> **Note:** This project is a decision-support prototype. Its predictions should not be treated as a guarantee of borewell success.
-
 
 
 Objectives
